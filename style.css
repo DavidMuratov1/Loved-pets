@@ -20,7 +20,7 @@ header {
 header nav ul {
     list-style: none
 a:link {
-  color:green ;
+  color:white ;
 }
 
 /* visited link */
@@ -36,5 +36,5 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: ;
+  color:white ;
 }
