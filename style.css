@@ -30,8 +30,8 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color:red ;
-  background-color:orange;
+  color:white ;
+  background-color:white;
 }
 
 /* selected link */
