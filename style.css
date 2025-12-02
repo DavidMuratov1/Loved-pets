@@ -19,3 +19,22 @@ header {
 
 header nav ul {
     list-style: none
+a:link {
+  color:green ;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color:red ;
+  background-color:orange;
+}
+
+/* selected link */
+a:active {
+  color: ;
+}
